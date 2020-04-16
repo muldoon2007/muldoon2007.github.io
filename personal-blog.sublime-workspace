@@ -1,0 +1,573 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"white",
+				"whitelist_tours"
+			],
+			[
+				"margi",
+				"margin-right\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"it",
+				"inherit\tfont-style"
+			],
+			[
+				"fot",
+				"font-style\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"rules",
+				"rulesShown"
+			],
+			[
+				"fundariser",
+				"fundraiser-click"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "about.markdown",
+			"settings":
+			{
+				"buffer_size": 100,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 1939,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "---\nlayout: post\ntitle:  \"SciTech: A term whose time has come\"\ndate:   2020-04-16 10:32:00 -0700\ncategories: scitech update\n---\n\n",
+			"file": "_posts/2020-04-15-welcome-to-jekyll.markdown",
+			"file_size": 1383,
+			"file_write_time": 132315319917239817,
+			"settings":
+			{
+				"buffer_size": 129,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": " ",
+			"settings":
+			{
+				"buffer_size": 1,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"csv",
+				"CSV: Justify columns"
+			],
+			[
+				"del",
+				"CSV: Delete column"
+			],
+			[
+				"just",
+				"CSV: Justify columns"
+			],
+			[
+				"advan",
+				"Set Syntax: Advanced CSV"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"e",
+				"ESLint"
+			],
+			[
+				"es",
+				"ESLint"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mmuldoon/muldoon2007.github.io",
+		"/Users/mmuldoon/muldoon2007.github.io/_posts"
+	],
+	"file_history":
+	[
+		"/Users/mmuldoon/muldoon2007.github.io/_config.yml",
+		"/Users/mmuldoon/Downloads/vpn-onetouch",
+		"/Users/mmuldoon/muldoon2007.github.io/Gemfile",
+		"/workplace/mmuldoon/PhoenixBslInputsBrazil/src/Phoenix_bsl_inputs/README.md",
+		"/Users/mmuldoon/Downloads/setAWSForOpha.bat",
+		"/Users/mmuldoon/Desktop/WEEKLY_PLANNER_v2b_2_5.mos",
+		"/Users/mmuldoon/java_pid22023.hprof",
+		"/Users/mmuldoon/Downloads/LH_Forecast-1.csv",
+		"/Users/mmuldoon/Downloads/error-1.txt",
+		"/workplace/mmuldoon/PhoenixProvisionScripts/src/PhoenixProvisionScripts/bin/test.sh",
+		"/workplace/mmuldoon/PhoenixProvisionScripts/src/PhoenixProvisionScripts/bin/installBslInputs.sh",
+		"/workplace/mmuldoon/PhoenixProvisionScripts/bin/environment",
+		"/workplace/mmuldoon/PhoenixProvisionScripts/src/PhoenixProvisionScripts/bin/provisionBslInputs.sh",
+		"/Users/mmuldoon/.config/ninja-dev-sync.json",
+		"/Users/mmuldoon/Desktop/NA/throttling-rules.txt",
+		"/Users/mmuldoon/Desktop/EU/throttling-rules.txt",
+		"/Users/mmuldoon/Desktop/FE/throttling-rules.txt",
+		"/workplace/mmuldoon/PhoenixProvisionScripts/src/PhoenixProvisionScripts/bin/environment.sh",
+		"/workplace/mmuldoon/PhoenixProvisionScripts/src/PhoenixProvisionScripts/bin/config",
+		"/Users/mmuldoon/Downloads/requirements(1).txt",
+		"/Users/mmuldoon/Desktop/startprovision.sh",
+		"/Users/mmuldoon/Desktop/credentials",
+		"/Users/mmuldoon/Desktop/config",
+		"/Users/mmuldoon/Downloads/requirements.txt",
+		"/Users/mmuldoon/Desktop/ssl_test.py",
+		"/Users/mmuldoon/Downloads/DailyMidwaySetup-U2F.bat",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-10-01 15:08:32 +0000_0",
+		"/Users/mmuldoon/Downloads/mac.ssh.config",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-10-01 15:08:00 +0000_0",
+		"/workplace/mmuldoon/PhoenixDjangoApp/src/PhoenixDjangoApp/definition.yaml",
+		"/workplace/mmuldoon/PhoenixDjangoApp/src/PhoenixDjangoApp/phoenixdjangoapp/resources/config.yaml",
+		"/workplace/mmuldoon/PhoenixDjangoApp/src/PhoenixDjangoApp/README.md",
+		"/Users/mmuldoon/.ssh/known_hosts",
+		"/Users/mmuldoon/.bash_profile",
+		"/Users/mmuldoon/Downloads/node_type.txt",
+		"/workplace/mmuldoon/MmuldoonShell/src/MmuldoonShell/bin/alias.sh",
+		"/workplace/mmuldoon/MmuldoonShell/src/MmuldoonShell/Config",
+		"/Users/mmuldoon/Downloads/pipelines.rss",
+		"/Users/mmuldoon/Downloads/transit_times.txt",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-30 05:03:51 +0000_0",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-30 04:56:56 +0000_0",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-30 04:52:14 +0000_0",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-30 04:23:57 +0000_0",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-30 04:48:29 +0000_0",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-30 04:45:58 +0000_0",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-30 04:45:38 +0000_0",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-30 04:31:09 +0000_0",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-30 03:29:14 +0000_0",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-30 04:06:42 +0000_0",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-30 03:59:49 +0000_0",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-30 03:30:47 +0000_0",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-30 03:24:30 +0000_0",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-30 03:07:30 +0000_0",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-30 03:03:18 +0000_0",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-30 02:57:03 +0000_0",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-29 21:19:14 +0000_0",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-30 17:15:09 +0000_0",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-29 19:57:52 +0000_0",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-29 19:56:34 +0000_0",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-29 19:50:05 +0000_0",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-29 19:44:44 +0000_0",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-28 17:26:36 +0000_0",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-28 23:48:00 +0000_0",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-29 00:15:33 +0000_0",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-29 00:18:47 +0000_0",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-29 00:29:33 +0000_0",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-29 00:32:02 +0000_0",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-29 00:34:03 +0000_0",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-29 00:38:19 +0000_0",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-29 00:39:37 +0000_0",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-29 00:47:18 +0000_0",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-29 00:55:40 +0000_0",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-29 01:09:26 +0000_0",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-29 01:22:44 +0000_0",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook_MessageSource_2019-08-29 17:15:41 +0000_0",
+		"/Users/mmuldoon/Documents/Middle Mile/Learning",
+		"/Development/create-gk-aliases.sh",
+		"/Users/mmuldoon/Desktop/Sustainable new cities at 1:10th the cost of livin",
+		"/Users/mmuldoon/Documents/Personal/Writing/manifesto.md",
+		"/Users/mmuldoon/Downloads/MiraPlanningOutput-WK22_TEAMS/LOADSET-Input.txt",
+		"/Users/mmuldoon/Downloads/DOMICILES-Input.txt",
+		"/Users/mmuldoon/Desktop/historical_runs/Wk9_SR_thurs_pri2/simulation_input/load_scores_hipri_wk9.csv",
+		"/Users/mmuldoon/Desktop/historical_runs/Wk9_SR_thurs_pri2/simulation_input/load_scores_lopri_wk9.csv",
+		"/Users/mmuldoon/Downloads/MiraPlanningOutput-WK22_TEAMS/DOMICILES-Input.txt",
+		"/Users/mmuldoon/Desktop/historical_runs/Wk9_SR_thurs_pri2/historical_output/DOMICILES-Input.txt",
+		"/Users/mmuldoon/MiraScripts/src/MiddleMileRoutingMiraScripts/src/middle_mile_routing_mira_scripts/ParsePlanningRunStats.py",
+		"/Users/mmuldoon/Desktop/historical_runs/Wk18_SR_thurs/simulation_input/LOADSET-SR.txt",
+		"/Users/mmuldoon/Desktop/simulation_results/mmuldoon-priority_expansion_wk18_6hr_quarters_simplest/Wk18_SR_thurs_WINDOW-PRIORITY-SEGMENTS-6-1-4_0_work_week.txt",
+		"/Users/mmuldoon/Desktop/simulation_results/mmuldoon-priority_expansion_wk18_6hr_quarters/Wk18_SR_thurs_WINDOW-PRIORITY-SEGMENTS-6-3-4_0_work_week.txt",
+		"/Users/mmuldoon/Desktop/simulation_results/mmuldoon-priority_expansion_wk18_6hr_quarters/Wk18_SR_thurs_WINDOW-PRIORITY-SEGMENTS-6-RANDOM-QUARTER_1_work_week.txt",
+		"/Users/mmuldoon/Desktop/simulation_results/mmuldoon-priority_expansion_wk18-6hr/Wk18_SR_thurs_WINDOW-PRIORITY-SEGMENTS-6-2-2_3_work_week.txt",
+		"/Users/mmuldoon/Desktop/simulation_executions/mmuldoon-priority_expansion_wk18/Wk18_SR_thurs/override_inputs2/TRANSIT_TIMES_OVERRIDE-MINUS-0.txt",
+		"/Users/mmuldoon/Desktop/simulation_results/mmuldoon-large-expansion_3/Wk9_SR_thurs_pri_WINDOW-RANDOM-12_1_work_week.txt",
+		"/Users/mmuldoon/Downloads/LOADSET-Input_wk18.txt",
+		"/Users/mmuldoon/Documents/Projects/Drop and Hook/Phase 2/Jose_simulations/Wk_21_Jose/SIMULATION_LOADSET-SR.txt",
+		"/Users/mmuldoon/Documents/Projects/Drop and Hook/Phase 2/Jose_simulations/Wk_21_Jose/PLANNING_ENTITIES_KEY.txt",
+		"/Users/mmuldoon/Documents/Projects/Drop and Hook/Phase 2/Jose_simulations/Wk_21_Jose/SIMULATION_LOCATIONS.txt",
+		"/Users/mmuldoon/Desktop/historical_runs/Wk9_SR_thurs_pri/simulation_input/LOADSET-SR.txt",
+		"/Users/mmuldoon/Documents/Projects/Drop and Hook/Phase 2/rds_sc_capacity.sql",
+		"/Users/mmuldoon/Documents/Projects/Drop and Hook/Transit Time/required_dist_all.txt",
+		"/Users/mmuldoon/Documents/Projects/Drop and Hook/Phase 2/Jose_simulations/LOADS_TOTAL-JOSE-SR.txt",
+		"/Users/mmuldoon/Downloads/Wk_21_Jose/SIMULATION_LOADSET-SR.txt",
+		"/Users/mmuldoon/Documents/Projects/Drop and Hook/Phase 2/Jose_simulations/Wk_21_Jose/SIMULATION_LOADSET-SR copy.txt",
+		"/Users/mmuldoon/Documents/Projects/Drop and Hook/Phase 2/Jose_simulations/Wk_21_raw_inputs/SR_sessionOutput/SIMULATION_LOADSET-SR.txt",
+		"/private/var/folders/5j/ltz15mxs6dj29bhjvm6q3dhcp6gbw4/T/com.microsoft.Outlook/Outlook Temp/LOADS_TOTAL-JOSE-SR.txt",
+		"/Users/mmuldoon/Downloads/MiraPlanningOutput-WK20_SR_fixed/LOADSET-Input_Wk20.txt",
+		"/Users/mmuldoon/Downloads/MiraPlanningOutput-WK20_SR_fixed/SIMULATION_LOADSET-Input.txt",
+		"/Users/mmuldoon/Downloads/MiraPlanningOutput-WK18_THURS_SR_Rerun2-PCS/DOMICILES-Input.txt",
+		"/Users/mmuldoon/Downloads/MiraPlanningOutput-WK18_THURS_SR_Rerun2-PCS/LOADSET-Input_wk18.txt",
+		"/Users/mmuldoon/Downloads/wk21wimports/SIMULATION_LOADSET-SR.txt",
+		"/Users/mmuldoon/Documents/Projects/Drop and Hook/Phase 2/Jose_simulations/Wk_21_combined_inputs/DRIVER_AVAILABILITIES.txt",
+		"/Users/mmuldoon/Documents/Projects/Drop and Hook/Phase 2/Jose_simulations/Wk_21_raw_inputs/SW_sessionOutput/LSP_CAPACITY-SW.txt",
+		"/Users/mmuldoon/Documents/Projects/Drop and Hook/Phase 2/Jose_simulations/Wk_21_combined_inputs/LSP_CAPACITY-SR.txt",
+		"/Users/mmuldoon/Documents/Projects/Drop and Hook/Phase 2/Jose_simulations/Wk_21_raw_inputs/Team_sessionOutput/LSP_CAPACITY-Team.txt",
+		"/Users/mmuldoon/Documents/Projects/Drop and Hook/Phase 2/Jose_simulations/Wk_21_raw_inputs/SR_sessionOutput/LSP_CAPACITY-SR.txt",
+		"/Users/mmuldoon/Downloads/RunWINDOW-CPT_0.txt",
+		"/Users/mmuldoon/Development/hoverboard/hoverboard/docs/tutorials/firebase-utils.md",
+		"/Users/mmuldoon/Downloads/SR_sessionOutput (1)/DOMICILES.txt",
+		"/Users/mmuldoon/Downloads/SR_sessionOutput (1)/LOADSET-SR-Wk16_mon.txt",
+		"/Users/mmuldoon/Downloads/LOADSET-Input.txt",
+		"/Users/mmuldoon/Downloads/SR_sessionOutput (1)/LOADSET-SR.txt",
+		"/Users/mmuldoon/Downloads/SR_sessionOutput (1)/SIMULATION_LOADSET-SR.txt",
+		"/Users/mmuldoon/Documents/Projects/Drop and Hook/Metrics/04222019/missing_trs_1",
+		"/Users/mmuldoon/Documents/Projects/Drop and Hook/Metrics/04222019/missing_trs_tra_1",
+		"/Users/mmuldoon/Documents/Projects/Drop and Hook/Metrics/04222019/missing_trs_tra_2",
+		"/Users/mmuldoon/Documents/Projects/Drop and Hook/Metrics/04222019/missing_trs2",
+		"/Users/mmuldoon/MiraScripts/src/MiddleMileRoutingMiraScripts/merged_workweek_nodnh.csv",
+		"/Users/mmuldoon/Downloads/cbef647b-da9d-4cd0-ae2b-774ec57f4f7a.csv"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 113.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "about.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								98,
+								98
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1939,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								667,
+								667
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_posts/2020-04-15-welcome-to-jekyll.markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 129,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								129,
+								129
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 150.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "personal-blog.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ho",
+				"~/Development/hoverboard/hoverboard/src/pages/home-page.html"
+			],
+			[
+				"fun",
+				"~/Development/hoverboard/hoverboard/src/pages/fundraiser-page.html"
+			],
+			[
+				"pr",
+				"~/Development/hoverboard/hoverboard/src/elements/dialogs/project-details.html"
+			],
+			[
+				"a",
+				"~/Development/hoverboard/hoverboard/scripts/redux/actions.js"
+			],
+			[
+				"fu",
+				"~/Development/hoverboard/hoverboard/src/pages/fundraiser-page.html"
+			],
+			[
+				"hov",
+				"~/Development/hoverboard/hoverboard/src/hoverboard-app.html"
+			],
+			[
+				"too",
+				"~/Development/hoverboard/hoverboard/src/elements/header-toolbar.html"
+			],
+			[
+				"new",
+				"~/Development/hoverboard/hoverboard/src/elements/dialogs/new-project-dialog.html"
+			],
+			[
+				"in",
+				"~/Development/hoverboard/hoverboard/index.html"
+			],
+			[
+				"ac",
+				"~/Development/hoverboard/hoverboard/scripts/redux/actions.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 90.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

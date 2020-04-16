@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "SciTech: New life for an old term?"
+date:   2020-04-16 10:32:00 -0700
+categories: scitech
+---
+
+There's a naming convention in software product development that's been around since I've been in the workforce. It goes like this: you take some real-world industry, think about software products that could improve that industry, and then slap the term "tech" at the end of the name of the industry, and now you have a ready-made, Silicon Valley-friendly buzzword for an exciting software product area. Examples:
+
+> EdTech = Education + software
+
+> FinTech = Finance + software
+
+> GovTech = Government + software = GovTech
+
+> AgTech = Agriculture + software
+
+> AdTech = Advertising + software
+
+I spent about five years in and out of the "EdTech" world. There were EdTech meetup groups, conferences, podcasts, websites, and job boards. There were college students who were interested in looking for jobs in EdTech -- at one point I was one of them. And there were, of course, EdTech investors and startup accelerators. You could get a [Master's degree](https://www.gse.harvard.edu/masters/tie) in it from Harvard. 
+
+In other words, EdTech was a useful organizing concept, not just a marketing term slapped onto a PowerPoint presentation (Though it definitely was also that). You could meaningfully talk about the "EdTech community" or "EdTech ecosystem."
+
+# What about SciTech?
+
+Following the formula above, you might expect to see this formulation to have shown up in the wild:
+
+> SciTech = Science + software
+
+But it hasn't. SciTech is just not a term you see around much. When you do, it doesn't mean anything in particular. Its [Wikipedia page](https://en.wikipedia.org/wiki/SciTech) disambiguates to Serbian science magazine, a high school in Pennsylvania, and an aeronautics conference, among other random references. Maybe the most common definition you see in the wild (for example, on the [SciTech Reddit community](https://www.reddit.com/r/scitech/)) is what you could call the *Trivia Night Definition:*
+
+> SciTech = Anything related to science, nature, and/or technology, definitely not limited to software
+
+# So what?
+
+But who really cares that SciTech doesn't mean what it could theoretically mean?
+
+Software for scientific applications still gets written. Startups doing interesting work at the intersection of science and software still exist and get funding. Nobody *needs* this term to be able to understand that software and science can go together well. It's not a very complicated idea.
+
+The first problem is that there are no conferences, no job boards, no podcasts, no college clubs, no meetups. 
+
+There is no SciTech community.
+
+And that actually has real-world implications. I'd argue that it deflates demand for an incredibly important category of software applications.
+
+Imagine you're a college business or computer science student and you're trying to search for a first internship, or you'd like to participate in a hackathon or business plan competition, or you're looking for an open-source project to follow.
+
+You can start your search with "FinTech" or "EdTech" and find all kinds of useful resources.
+
+But let's say you really would like to participate in making software tools for scientists, even if you aren't a scientist yourself. If you search for "science" you're going to going to run into a lot of additional roadblocks. Do you need a Ph.D to be able to make sense of the industry? Do you have enough expertise? Are your skills relevant? Does this opportunity have anything to do with software at all? You can search for "computer science," but of course, this isn't at all what you're looking for.
+
+It's just harder to find opportunities without a good keyword. And so I think it's fair to argue that that means that this sub-field -- software for science -- is going to catch fewer minds, get less attention, than it otherwise would. That means that, on the margins, there will be fewer student projects, fewer internships, fewer new business ideas, fewer jobs generated, less SciTech investment funds and investors, less government funding, and ultimately less progress. That's the bigger problem.
+
+# But can non-scientists do anything useful?
+
