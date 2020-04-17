@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Muldoon Cloud
+title: The Mickey Wiki
 email: muldoon.mickey@gmail.com
-# description: >- # this means to ignore newlines until "baseurl:"
-#   Peronal blog of Mickey Muldoon.
+description: >- # this means to ignore newlines until "baseurl:"
+  Personal blog of Mickey Muldoon.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://muldoon.cloud" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mickeymuldoon
