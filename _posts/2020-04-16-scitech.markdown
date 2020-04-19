@@ -7,7 +7,7 @@ categories: scitech
 
 # TL;DR
 
-I'm proposing that people start using the term "SciTech" as follows: "SciTech is a category of software products that are used primarily by physical scientists and engineers." There should be a SciTech community -- conferences, job boards, blogs, etc -- and software people should be excited to build it as a way to help contribute to fundamental advances in science and engineering.
+I'm proposing that people start using the term "SciTech" as follows: "SciTech is a category of software products that are used primarily by natural scientists and engineers." There should be a SciTech community -- conferences, job boards, blogs, etc -- and software people should be excited to build it as a way to help contribute to fundamental advances in science and engineering.
 
 # Tech means software
 
@@ -23,7 +23,7 @@ There's a naming convention in software product development that's been around s
 
 > AdTech = Advertising + software
 
-I spent about five years in and out of the "EdTech" world. There were EdTech meetup groups, conferences, podcasts, websites, and job boards. There were college students who were interested in looking for jobs in EdTech -- at one point I was one of them. And there were, of course, EdTech investors and startup accelerators. You could get a [Master's degree](https://www.gse.harvard.edu/masters/tie) in it from Harvard. 
+I spent about five years in and out of the "EdTech" world. There were EdTech meetup groups, conferences, podcasts, websites, and job boards. There were college students who were interested in looking for jobs in EdTech -- at one point I was one of them. And there were, of course, EdTech investors and startup accelerators. You could get a [Master's degree](https://www.gse.harvard.edu/masters/tie) in it. 
 
 In other words, EdTech was a useful organizing concept, not just a marketing term on a PowerPoint presentation (Though it definitely was also that). You could meaningfully talk about the "EdTech community" or "EdTech ecosystem."
 
