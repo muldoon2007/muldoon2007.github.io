@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Draft] Introducing SciTech"
+title:  "Introducing SciTech"
 date:   2020-04-16 10:32:00 -0700
 categories: scitech
 ---
@@ -22,6 +22,8 @@ There's a naming convention in software product development that's been around s
 > AgTech = Agriculture + software
 
 > AdTech = Advertising + software
+
+[Exception: BioTech doesn't fit this pattern as it tends to mean all manner of technics related to biology, not just limited to software].
 
 I spent about five years in and out of the "EdTech" world. There were EdTech meetup groups, conferences, podcasts, websites, and job boards. There were college students who were interested in looking for jobs in EdTech -- at one point I was one of them. And there were, of course, EdTech investors and startup accelerators. You could get a [Master's degree](https://www.gse.harvard.edu/masters/tie) in it. 
 
@@ -45,23 +47,17 @@ The first problem is that, because the term never took off like FinTech, there a
 
 There is no SciTech community, and there should be.
 
-And that actually has real-world implications. I'd argue that it deflates demand for an incredibly important category of software applications. The world desperately needs scientific and engineering solutions, most urgently to dig our way out of the climate and sustainability crisis, but also more immediately in the face of COVID-19. We need to invent cleaner and more sustainable ways to live, to work, to get around, to interact with the natural world.
+The world desperately needs scientific and engineering solutions to the solve complex global problems of our time: severe climate and ecosytem imbalances, superbugs and infectious diseases, renewable agriculture. We need to invent cleaner and more sustainable ways to live, to work, to get around, to interact with the natural world. We need to make sure that scientists aren't duplicating work unnecessarily and are collaborating effectively. You get the idea.
 
-To illustrate, imagine you're a college business or computer science student and you're trying to search for a first internship, or you'd like to participate in a hackathon or business plan competition, or you're looking for an open-source project to follow.
+Every developer we can steer towards these great problems -- and away from zero-sum activity like ad-tech or casual gaming -- is a win for the world. Maybe this is too postmodern an argument, but I think that just having a good keyword gives people something to search for, something to point to when you're a student or developer or entrepreneur or funder with a software background and you're thinking, "I'd like to do this but not that."
 
-You can start your search with "FinTech" or "EdTech" and find all kinds of useful resources.
+"I'm a business major and I'm interested in photography and SciTech."
 
-But let's say you really would like to participate in making software tools for scientific community, even if you aren't a scientist yourself. If you search for "science" you're going to going to run into a lot of additional roadblocks. Do you need a Ph.D to be able to make sense of the industry? Do you have enough expertise? Are your skills relevant? Does this opportunity have anything to do with software at all? You can search for "computer science," but of course, this isn't at all what you're looking for.
-
-It's just harder to find opportunities without a good keyword. And so I think it's fair to argue that that means that this sub-field -- software for science -- is going to catch fewer minds, get less attention, than it otherwise would. That means that, on the margin, there will be fewer student projects, fewer internships, fewer new business ideas, fewer jobs generated, less SciTech investment funds and investors, less government funding, and ultimately less science progress. That's the bigger problem. 
-
-Just for personal illustration, I decided in early 2018 that I wanted to find a next job doing something with SciTech. My criteria were extremely broad -- as long as my customer/user was an engineer or scientist, it'd be fine. I was at this point three years into a career as a full-stack software engineer at Amazon, so a fairly well-qualified candidate all in all. 
-
-It took me about two years to find a job that I could plausibly call SciTech. I asked around at Amazon, [took to Reddit](https://www.reddit.com/r/AskScienceDiscussion/comments/8uknba/what_are_good_ways_to_contribute_software_skills/), scoured job boards fairly regularly for a couple years, and asked friends. It took a lot of work.
+The Great Vision is that if we get more people to say something like that, that'll mean more meetups, more Reddit activity, more business plan ideas, more funding, more progress for science.
 
 # But can non-scientists be helpful to science?
 
-One of the replies I got regularly was that there simply wasn't a lot of need for non-scientists to serve as tool-builders for scientists. Like this comment from my [Reddit](https://www.reddit.com/r/AskScienceDiscussion/comments/8uknba/what_are_good_ways_to_contribute_software_skills/) post asking for opportunities where a software engineer could be useful to scientists: 
+One of the replies I got regularly when I was looking in the SciTech job market was that there simply wasn't a lot of need for non-scientists to serve as tool-builders for scientists. Like this comment from my [Reddit](https://www.reddit.com/r/AskScienceDiscussion/comments/8uknba/what_are_good_ways_to_contribute_software_skills/) post asking for opportunities where a software engineer could be useful to scientists: 
 
 > Get a high paying job and donate excess income to your research field of 
 choice.  Most R&D is constrained by funding and not man power.
