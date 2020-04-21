@@ -88,7 +88,7 @@ Consuming media (books, blogs, whatever) is not inherently a compounding thing. 
 
 ## Programming languages
 
-These will probably expose my ignorance pretty nicely. Also this is one of those topics where there's a lot of chatter but it rarely matters, since you get to make the "which language should I use?" question so rarely, only at the very beginning of a project.
+These will probably expose my ignorance pretty nicely.
 
 ### Rule 4: When to use Java or C#
 
@@ -169,7 +169,7 @@ Case 1 should be avoided, but 2 and 3 you can't really get around.
 
 ## DevOps
 
-### Rule 15: When you should get bring on a dedicated support engineer
+### Rule 15: When to bring on a dedicated support engineer
 
 At Amazon, by default, you support your code, so if something in your system goes seriously wrong, one of your peers is going to get paged and is expected to work around the clock until it's resolved.
 
