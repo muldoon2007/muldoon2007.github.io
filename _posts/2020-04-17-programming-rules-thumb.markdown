@@ -13,9 +13,9 @@ categories: programming
 
 I'm not a [10x developer](https://www.techopedia.com/definition/31673/10x-developer). I haven't been building websites since the days of dialup. I picked up programming a few years out of college because I was at a dead end in my career in government and politics.
 
-So I've been writing code 9-5 for about five years, all of which have been at Amazon. And during that time, I also raised three kids -- who were aged 0, 0, and 2 when I started. So I was not That Guy overachieving on nights and weekends. I was taking care of my kids.
+So I've been writing code 9-5 for about five years, all of which have been at Amazon. And during that time, I also raised three kids -- who were aged 0, 0, and 2 when I started. So I was not That Guy overachieving on nights and weekends. I was taking care of my family.
 
-I contributed to my first open-source project about a year ago. That was my first ever side project. And it was a conference website. Not a paradigm-shifting app. Just a conference website.
+I contributed to my first open-source project about a year ago. That was my first ever side project. And it was a conference website.
 
 I have never read a book cover-to-cover on software engineering.
 
@@ -25,20 +25,20 @@ In summary, I am a 1x developer. I do enough to get by respectably.
 
 Being a 1x developer, I make heavy use of conventional wisdom. I don't have much that's interesting or new to say about software engineering.
 
-In general, I haven't found the time to take long stretches away from work, or to take on side projects, or to read really extensively, or to dramatically overachieve. I have little pockets of time here and there.
+In general, I haven't found the time to take long stretches away from work, or to take on bigger side projects, or to read really extensively, or to dramatically overachieve. I have little pockets of time here and there.
 
 But I'm feeling ambitious. I would like to become a 1.1x developer. I'm trying to figure out how to get there.
 
 ## My theory of bootstrapping
 
-This post comes at a moment when I've got a bit more flexible time, due to COVID-19 and the quarantine and the fact that I'm taking some vacation days from work but can't actually go anywhere, while the kids are on "Spring Break" from our Pandemic Homeschool. As they say at school, we all are getting some "free choice time" for the next week.
+This post comes at a moment when I've got a bit more flexible time, due to COVID-19 and the quarantine and the fact that I'm taking some vacation days from work but can't actually go anywhere, while the kids are on "Spring Break" from our Pandemic Homeschool.
 
 So I'm going to try to bootstrap my software engineering longbeard wisdom in the following manner:
 
-1. Write out my inane thoughts on a broad range software engineering topics.
+1. Write out my inane thoughts on some software engineering topics.
 2. Share out my thoughts to people smarter than me and invite vicious critique.
 3. Update based on #2. 
-4. Come up with a methodology for finding and prioritizing useful information to read about software engineering, or reflections based on new projects, and integrating into #1. This is the realm of "productivity porn," and I'm working on it, maybe will write it up in a future post.
+4. Attempt to come up with a methodology for finding and prioritizing useful information to read about software engineering, or reflections based on new projects, and integrating into #1.
 
 # The Rules
 
