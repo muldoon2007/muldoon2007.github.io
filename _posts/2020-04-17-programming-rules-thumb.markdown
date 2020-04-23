@@ -42,7 +42,7 @@ So I'm going to try to bootstrap my software engineering longbeard wisdom in the
 
 # The Rules
 
-With no further ado, below are the Rules of Thumb for a 1x Developer.
+With no further ado, below are my Rules of Thumb for a 1x Developer.
 
 ## Meta
 
@@ -52,29 +52,29 @@ My observation is that humans are by nature irrational, inconsistent, authoritar
 
 That strategy serves people pretty well in a lot of cases and does help build "team unity." But when your goals are really external -- something more than "team unity," but about accomplishing an objective outside of the team, then it is pretty valuable to try to be rational and consistent.
 
-I think that rules of thumb (or if you'd like to dress them up, call them principles), help provide some guardrails, some structure, some scaffolding to allow people to step out of the authoritarian, pattern-following default mindset. They help reinforce a degree of logical consistency. They help focus conversations when there are a lot of competing values. And they help provide a more explicit, more thought-through shortcut when you're trying to figure out how to make a decision when there are endless options. 
+I think that rules of thumb (or if you'd like to dress them up, call them principles), help provide some guardrails, some structure, some scaffolding to allow people to step out of the pattern-following default mindset. They help reinforce a degree of logical consistency. They help focus conversations when there are a lot of competing priorities and values. And they help provide a more explicit, more thought-through shortcut when you're trying to figure out how to make a decision when there are endless options. 
 
-Amazon, where I work, is pretty well-known for having a set of principles that are fairly ubiquitous and come up in hiring, in making tough decisions, in evaluating tradeoffs. And I think the company is better for having them. Not because contain any special pearl of genius, but just because having principles in general is better than falling back to Homo Authoritaritus behavior.
+Amazon, where I work, is pretty well-known for having a set of principles that are fairly ubiquitous and come up in hiring, in making tough decisions, in evaluating tradeoffs. And I think the company is better for having them. Not so much because they contain any special pearl of genius, but just because having principles in general is better than falling back to the follow-the-leader behavior.
 
-Thinking is hard. Making decisions is hard. Having some thought-through rules to guide them helps us be a bit better.
+Thinking is hard. Making decisions is hard. Having some thought-through rules to guide decision helps us be a bit better.
+
+That all said, the rules of thumb below aren't really like Amazon's principles. They're mostly just rules of thumb that represent what's usually going on in my mind when I think about one of these topics.
 
 ## Productivity and learning
 
-### Rule 2: Most of what we learn is useless outside of its immediate context
+### Rule 2: Most of what I learn is useless outside of its immediate context
 
 I sometimes hear people say the only thing that an IQ test measures is "how good you are at taking an IQ test." I agree with that, and with the general point that most knowledge is highly contextual. I've had about seven different "real jobs" since college, each one with a different job title. Within Amazon, I've worked on two totally different kinds of products and industries.
 
 And what I have found is that most -- say, 90%, of what I learn at one job is completely useless for the next one. Even within the same career area. Not all of it. And that 10% might be a really important 10%, like how to be better at email or how to navigate office politics. But still most of what I learn is complete "throwaway work" when I start the next job. It's very specific knowledge about how a very specific organization operates.
 
-Even as an engineer. Most of our time is spent focusing on specific technologies and business problems that are unlikely to be relevant to a different organization.
-
-Amazon might be an extreme example, but developers here spend an enormous amount of time mastering internal tools that literally don't exist anywhere else.
+Amazon is probably an extreme example, because developers here spend an enormous amount of time mastering internal tools and business concepts that literally don't exist anywhere else. I'm probably somewhat colored by that. I know that other developers have a different experience -- they master a specific technology and those skills actually do travel with them from job to job.
 
 In education (where I did spend a few years working), there's just a fact that most knowledge is not transferable. Learning something in one domain generally does not help with any other domain.
 
-So, selfishly, I tend to think this way: if 90% of what I'm doing today won't help me in the next job, then I should either reduce that 90% (for example, by focusing on general-purpose ideas, systems, abstractions), just not care as much about that 90% (as I used to), or find a job where I'm willing to sacrifice that 90% of my time because I think the cause is really important or the money is so good.
+So, selfishly, I tend to think this way: if 90% of what I'm doing today won't help me in the next job, then I should either reduce that 90% (for example, by focusing on general-purpose ideas, systems, abstractions, technologies), just not care as much about that 90% (as I used to), or find a job where I'm willing to sacrifice that 90% of my time because I think the cause is really important or the money is so good.
 
-And of course, we forget most things we learn if we stop practicing or rehearsing them.
+This rule is probably more specific to me, since I've changed careers a bunch. For other people, they've been able to transfer most of their skills from one job to the next.
 
 ### Rule 3: Focus "learning time" on things that compound
 
@@ -94,7 +94,7 @@ These will probably expose my ignorance pretty nicely.
 
 Java is ideal for large enterprise applications, and it's hard to imagine Amazon, for example, running on anything else. That's because it's got the deepest libraries and community support, and the static typing makes it much easier to deal with zillions of internal data models inside a large company.
 
-I view C# as a the Microsoft spin on Java and so would it use if I needed the some of the benefits of Java but was in the Microsoft ecosystem.
+I view C# as a the Microsoft spin on Java and so would use it if I needed the some of the benefits of Java but was in the Microsoft ecosystem.
 
 ### Rule 5: When to use Python or Ruby
 
@@ -106,7 +106,7 @@ When using Python, you should do type hinting to make life a little saner.
 
 I think of Go, Rust, Haskell, Erlang, Clojure, Kotlin, Scala as more hardcore languages. Out of these I've only ever shipped production code in Kotlin. 
 
-But thinking hypothetically, I would maybe use Go/Rust if I was building a fresh web service where latency, and performance were more important than community/library support. Haskell or Erlang maybe I would use if I were doing something that required a very elegant or mathematical functional approach without a lot of business logic. I don't know when I would use Clojure -- I thnk it'd be if I really came to know and love Lisp. I know that Clojure is a functional paradigm that compiles to JVM bytecode, but I'd use Kotlin for that. Since Kotlin works with Java and also has nice IntelliJ support. Same deal with Scala -- I would take Kotlin first.
+But thinking hypothetically, I would maybe use Go/Rust if I was building a fresh web service where latency and performance were more important than community/library support. Haskell or Erlang maybe I would use if I were doing something that required a very elegant or mathematical functional approach without a lot of business logic. I don't know when I would use Clojure -- I thnk it'd be if I really came to know and love Lisp. I know that Clojure is a functional paradigm that compiles to JVM bytecode, but I'd use Kotlin for that. Since Kotlin works with Java and also has nice IntelliJ support. Same deal with Scala -- I would take Kotlin first.
 
 ### Rule 7: How to do Javascript
 
@@ -123,7 +123,7 @@ So I'm one of the many who's had a bad experience. But I think it was mostly of 
 
 I feel like you don't choose C -- it chooses you. There are classes of applications -- operating systems, language design, low-level programming and hardware, where you have to use C. 
 
-C++ is an interesting one. I can't think of a case right now where it's generally favorable compared to Java.
+C++ is an interesting one. It seems to be useful for applications like robotics and video games and high frequency trading where the performance gains from no garbage collection make it preferable to Java.
 
 ### Rule 9: Use PHP or Hack if you want to test server changes without rebuilding
 
