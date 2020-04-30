@@ -133,9 +133,9 @@ I've never considered when I would use PHP or Hack until writing this. Maybe bec
 
 ## Technologies
 
-### Rule 10: When to make a microservice
+### Rule 10: When to make a serverless function
 
-I would use a microservice when I have a relatively small and simple chunk of code that needs to run every once in a while.
+I would use a serverless function when I have a relatively small and simple chunk of code that needs to run every once in a while.
 
 ### Rule 11: Which database technology to choose
 
