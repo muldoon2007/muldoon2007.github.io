@@ -158,6 +158,8 @@ have an option to earn a decent living for his or her family, with the
 help of our technical heritage, on 15 hours a week or four months a
 year of 40-hour weeks.
 
+![productivity over time](/images/productivity-chart.png)
+![family hours worked (source:https://www.minneapolisfed.org/research/sr/sr397.pdf](/images/family-hours.png)
 #### Bankrupt Idea 2: We Should Hope for Politicians to Solve our Social Problems
 
 > "Ask not what your country can do for you, but what you can do for
