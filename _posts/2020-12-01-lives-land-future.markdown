@@ -524,7 +524,7 @@ skirted the worst of it.
 How do we untangle ourselves? I don’t know. But here are my best
 ideas.
 
-## Civic Solidarity
+#### Civic Solidarity
 
 I like to stop and think every once in a while about every human that
 made my day possible. The miners who dug out the aluminum for my
