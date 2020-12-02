@@ -10,10 +10,9 @@ categories: land
 I graduated from college twelve years ago. Since then, I've worked
 in politics and government and non-profits and corporations, and for
 organizations on the political "left" and "right" and everywhere
-inbetween. My first job paid $50 a month (in Brazil) and my current
-one pays around $200,000 at a software mega-corporation. So it's been
-a somewhat meandering tour through different slices of life and
-politics and society.
+inbetween. My first job paid $50 a month (in Brazil) and I'm now at a
+software mega-corporation. So it's been a somewhat meandering tour
+through different slices of life and politics and society.
 
 I want to share some terrible ideas that I've collected over the
 course of my tour.
