@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Our Land, Our Lives, Our Future"
+title:  "Rural Gentrification: A Minifesto"
 date:   2020-12-01 10:32:00 -0700
 categories: land
 ---
