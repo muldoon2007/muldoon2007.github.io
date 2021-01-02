@@ -1,0 +1,367 @@
+---
+layout: post
+title:  "2019 and 2020 in Review"
+date:   2020-01-02 10:32:00 -0700
+categories:
+---
+
+# 2019-2020 in Review
+
+Well, here we are. We did it. We made it to 2021.
+
+I skipped the yearly letter in 2019 (no particularly good reason) and
+so I'll make this one a twofer, covering 2019 and 2020. I have a
+feeling it'll take up a lot of space, and so if you'd prefer just to
+see the photo highlights, they're all the way at the end. Also, if you get
+bored with all the personal narrative, there's my usual "Ideas"
+section below that may be of more interest.
+
+2019 was a sort of surprising year for us here at the Muldoon
+household. Around the last time I sent out a personal update (in early
+2019), I was gearing up for a conference I helped to organize in
+Detroit. That turned out to be a big success. I won't go into all the
+details, but I'd strongly encourage you to check out
+<radicalxchange.org> if you're interested in learning more about what
+I think is one of the most exciting political/technological movements
+out there in the world today. It was an honor to play a part in
+getting that off the ground.
+
+But also, working on that project, compounded on a bunch of other
+commitments, took a personal toll on me. I was, at that time, in the
+middle of a really tough project at Amazon -- implementing a big
+change in the freight shipping logistics to (of course) squeeze more
+efficiency out of the freight network. There were a lot of unknowns
+and complexities and it was notoriously difficult and old code that I
+had to wrestle with. And at the same time, after a couple years of
+great sleeping, our son Kevin started having nightmares (he was 4 at
+the time) and waking up at odd hours of the night, needing to curl up
+with us parents to get back to rest. And so there were a couple of
+months where I'd be doing fairly grueling work during the day, put the
+kids down to sleep, then code away at the RadicalXChange website after
+hours, get to bed, and then spend some middle-of-the-night time with
+Kevin.
+
+And then some time around February, my team at work got assigned to
+support a new and terribly buggy freight logistics program in Europe.
+When things went wrong on Monday morning in Luxembourg (and then did,
+reliably, every week), we'd get the call to come in and fix them at
+3am Seatle time.
+
+In retrospect I should have seen this coming, but what followed was
+that in April, after the conference in March, I hit a wall. For the
+first time in my life I started having serious sleeping difficulties
+-- and this includes the birth and early years of three kids,
+including twins. My regular sleep cycles had sort of been chronically
+disturbed, so that even on the calm nights, I'd wake up at odd hours
+and have difficulty getting back to sleep. Coming off of a really
+energizing 2018, I pushed myself too hard in 2019 and was late to
+really appreciate it.
+
+So in short order the sleep problems started to impact my work and my
+home life. I had a harder time focusing, and being patient, and being
+a good partner and parent. In the office, I had to seek out private
+meeting rooms to take mid-day naps. On the nice days, I'd escape to
+parks for naptime. But at the end of the day, it was a demanding work
+environment, and when you're writing code, you can't fake it. Not
+being able to do my job made me feel bad, which also made it harder
+for me to sleep -- a vicious cycle.
+
+I was super hesitant about getting into sleep drugs, and so really the
+only thing I could think of to get things in order was to stop
+working. Long story short, I got permission to take a 12-week unpaid
+leave of absence from work over the summer.
+
+A couple of highlights from the summer. One was that I immediately
+found that there was a ton -- weeks worth -- of domestic work to catch
+up on. Organizing sheds, lawn stuff, home maintenance, keeping the
+kids' clothes and artwork and toys in order, sorting and taking trash
+to the dump, generally digging ourselves out of the trash heap of the
+modern suburban nuclear family lifestyle (more on that later).
+
+Another highlight was hitting the road in a rented RV. We spent 17
+days in it, around Washington, Oregon, and Idaho. We started at the
+Oregon Country Fair, camping out (as in 2018) at the Elfenwood
+campground, where for a couple days we get a flavor of village life --
+a couple hundred people, central barn and campfire and community
+facilities, kids of all ages meeting each other and playing hide and
+seek and running free, music in every direction. As a casual
+guitarist, I had definitively the best jam sessions of my life with a
+couple other campers nearby. And the Fair itself was brimming with
+life as always.
+
+The next destination was the Lost Valley Educational Center outside of
+Eugene, Oregon. Lost Valley is a successful "practical sustainable
+living" site, a bit less than 100 acres, where some families live and
+work, and that also hosts guests and retreats. Within minutes of our
+arrival, a local kid (a blonde boy named Tenzin) invited our kids to
+go play with him, and they were off biking around, playing legos,
+finding the trampoline, getting wet. For me personally, that feeling
+of seeing a five or six year old child feel free to hop on a bike,
+roam around with other children on dirt roads, and have all of us
+trust they're safe is -- well, as a parent, it just feels right. It's
+one of these things that at the same time is so simple, but also feels
+like some huge luxury.
+
+Another big takeaway was my tour of Lost Valley's impressive community
+kitchen with all the commercial-grade appliances and cookware. When I
+saw all that, and how they can efficiently feed dozens of people from
+a single kitchen, it just made my home kitchen feel so primitive, so
+wasteful, in comparison.
+
+After Lost Valley, we headed to Eastern Oregon for some mountainous
+camping at Anthony Lakes, hung out at the Oregon Trail city of Baker
+city, saw a rodeo there, then went to Hells Canyon in Idaho, and up
+along the Snake and Salmon rivers. The Idaho scenery was phenomenal.
+We spent a night alongside the Snake river, in a modern RV powered by
+a clean hydroelectric dam, watching the sunset over the mountains, and
+something about it actually felt very futuristic. Simple, sustainable,
+modern, compact.
+
+We rounded out the trip with a rendesvous with my dad near Couer
+D'Alene, where we camped out near an abandoned mine and spent a couple
+days at the Silverwood Water Park. Public Service Announcement: yes,
+there are water parks where you can camp there and stay for many days.
+
+After turning in the RV, I flew with the kids to Chicago to stay with
+my mom and stepdad (Belkis and Josh), while Luana stayed in Seattle to
+get some quiet time. Around then was the first time I started to get
+good sleep. And thanks in particular to my mom's superhuman kid-care
+skills, she took care of the kids and I ended up spending much of 10
+days trying to put together a bunch of ideas that had been in my head
+about my parenting experience and work-life balance and the suburban
+lifestyle.
+
+That all turned into the
+"[Minifesto](https://muldoon.cloud/land/2020/12/01/minifesto.html)" --
+which I finally just put up on my site last month. It's pretty long,
+but especially for the young parents, or those expecting kids soon, it
+may be a useful reminder of what the suburban lifestyle package really
+entails, and give some food for thought about alternatives. As I've
+probably hinted at elsewhere, I've become somewhat fixated on the idea
+of modern, rural, sustainable, walkable villages and small towns as an
+achievable alternative. (This all was written before COVID, but it
+goes without saying that the explosion of remote work due to COVID has
+also made this whole vision suddenly much more realistic for a much
+wider pool of people with economic means. If that includes YOU, then I
+would absolutely love to brainstorm with you.)
+
+But back to 2019. By the last two or so weeks of the time off, I had
+finally gotten back into a reasonable sleep cycle -- able to sleep at
+night, stay asleep, and wake up without an alarm clock in morning. We
+spent the last couple of weeks around the house and neighborhood,
+hosting neighbors, playing with neighborhood kids, still trying to get
+our home in order.
+
+When I finally went back to work at the end of August, my boss had
+left the team. I found that I spent a lot of time chatting and
+brainstorming with colleagues, other software engineers who'd had the
+same battle scars as me, about our quality of life and how to improve
+it, given the 3am calls from Europe. But also, I found myself mostly
+trying to avoid the actual work of writing code as much as possible.
+I'd just sort of soured on it and have become far removed from that
+fragile pleasure of writing great code and seeing it work.
+
+But at least having recovered some peace of mind, and ability to
+focus, I started looking for jobs within Amazon and elsewhere.
+
+That sort of gets us to 2020. I started interviewing at the start of
+the year. In January, I combined a weekend of guitar in California
+(there's a video in my highlight reel with me getting a lesson from
+legend Martin Taylor) with a job interivew in LA. By chance I flew in
+to LA on the day Kobe Bryant died (the Grammy awards were also that
+night) and staying at a hotel a couple blocks from the Staples Center.
+It was a surreal night, hanging out with a kid on the street (who
+liked occasionally going to jail "for the networking") watching the
+people in tuxedos stream out from the Staples Center and the various
+mourners from around the city stream in with flowers and Kobe stuff.
+
+Schools shut down in early March here in Washington and I was assigned
+to work from home indefinitely right around the same time. The twins
+were having a great time in kingergarten, and part of what made the
+shutdown tough for us was that it was the first time all three kids
+were in full-time school for the whole year, and we were just starting
+to enjoy the extra breathing room that afforded us (especially Luana
+during the day). Since we only did sporadic preschool, the first
+school year the twins will complete anything resembling normal full
+time school will be second grade. But anyway, Luana stepped in to
+basically personally tutor all three kids throughout the spring, while
+I was still at Amazon and doing the job search. I was the music and
+math and PE teacher in my flexible moments. But I also recall really
+struggling to find energy, being lethargic, and still unmotivated at
+work now that the colleagial fun was gone.
+
+Around that time, I was in conversations with Blue Origin about a job
+as a software engineer. For years I'd been trying to apply the
+software coding work to science
+([SciTech](https://muldoon.cloud/scitech/2020/04/16/scitech.html), as
+I like to call it) and this was a great chance to finally get into the
+space. I ended up joining in May, fully in the middle of the pandemic.
+I've been into the office a total of two times since I joined.
+
+But more importantly, the new job has reminded me of why I enjoyed
+writing code in the first place. Our team uses a small but beautiful
+language called Clojure that has helped to make coding fun again for
+me. And there are no 3am calls from Europe, thank Zeus. I work on the
+software that helps rocket engineers and manufacturers keep track of
+the parts and designs and safety testing to the exacting standards
+required for space.
+
+The summer was strange, like the whole year. But it was a relief to
+have gotten across the finish line with "home school" and to feel a
+bit less pressure on the academic side. We settled into a routine
+where the kids would play Minecraft in the mornings and then go to the
+nearby neighborhood lake in the afternoons for much of the summer,
+while Luana gave me the time and space to be focused on work during
+the day. I continued to be the music and PE teacher, and we ended up
+picking up tennis as one of the few sports we could still do while
+keeping the social distancing.
+
+For sure, the question of "screen time" for the kids became a big
+theme of the year. Up to this point, we'd been on a minimal screen
+"diet" for the kids, only watching occasional YouTube videos together,
+and that was it. But when quarantine started, the kids all of a sudden
+needed devices to connect to school. We repurposed an old iPhone and
+laptops from my sister (the kids' first computers ran Linux, a point
+of pride), but we are still in a cat and mouse game as of today. Case
+in point: I actually just stepped away to hide the Amazon Echo after I
+heard the kids watching their favorite "Fart of Doom" YouTube video.
+The kids then climbed up to the shelf where I'd hidden it, and Alexa
+was back within a minute! And this has played out in so many different
+ways over the past year -- with their school-issued tablets and
+Chromebook, with the phone we let them use that has piano lessons on
+it. We're getting closer to some point of stable equilibrium, but it's
+really been a lot of work and headache to teach the kids (and
+ourselves) how to use these things responsibly. There's a big niche
+somewhere for a trustworthy home device consultant who can provide
+equipment, software, networking, and some therapy for how to deal with
+the internet in the home with children.
+
+On that note, Minecraft was a very big theme for the year, as it
+probably has been for millions of households around the world during
+COVID. It's pretty fun, and it gets you in a very creative kind of
+mode, and our setup (on a Playstation 3) makes it social and
+collaborative. But I worry whether all the curiosity wouldn't be
+better channeled towards the real world. For now, though, I like what
+I see when we all play together.
+
+Back to 2020.
+
+My brother and sister (and respective spouses), both in the Seattle
+area, both brought new life into the world in the warm months of the
+year. Baby Elliott Wenger and Jones Muldoon were born mid-pandemic,
+and have been as healthy and beautiful as their Uncle Mike could
+possibly hope for. The parents are well, though sleep-deprived. Molly
+and Dave are doctors in Seattle, Dave a pulmonologist and Molly a
+pediatric oncologist. It's been a much wilder ride for them,
+understandably, this year, and my grumbling always looks petty in
+comparison to what they've gone through as practicing medical
+professionals.
+
+Also in the summer, we went out to Eastern Washington for a week with
+my Dad, full of splash time in Long Lake and fishing attempts from the
+pedal-boat and a handmade pole. We really like it out there.
+
+In the fall at our household, the "screen time" thing only got more
+intense, as the school district set things up for full-time Zoom
+school for everyone, and our kids were starting first and second
+grades. It's tough to see school done this way, where the first
+graders can only speak when they've "unmuted" themselves, and can
+really only have conversation with the teacher since free-form chatter
+rapidly gets out of control over Zoom. But we've been trying to be
+open to the positive sides -- there is some great online content, and
+the kids are learning to be a lot more independent and to manage time
+and complete tasks -- and re-evaluating this whole thing as we go. I'm
+a big fan of trying different approaches, and this is a radically
+different approach, but for the next phase we have to balance this out
+with something very different. Something much more social, less rigid,
+more cooperative and open-ended, in exchange for the mechanical
+rigidity of this moment. I'm in favor of a free-form "Montessori for
+All" 2021-2022 school year in the public schools.
+
+And then the only other big thing of note from the fall was our
+Thankgsiving. We ended up having a few family members fly out (under
+very strict protocols) and some others drive from around the country
+(with no stops in hotels, to stay safe) to make it out. It was a
+thoroughly regenerative time together, especially on the music-making
+front.
+
+So here we are. Just rounding out a couple of weeks of vacation from
+school and work, staying here at home, much of it huddled around the
+fireplace or in our garage-turned-gymnastics-center.
+
+Standing by for the Great Post-Pandemic Party of 2021 -- or 2022.
+
+# Ideas
+
+To cut right along to the chase -- and it's a miracle if you've made
+it all the way here -- the one all-encompassing idea theme of this
+year, and last one for that matter, is about land development. Like I
+wrote about here:
+<https://muldoon.cloud/land/2020/12/01/minifesto.html>.
+
+And in short, if there's anything I think (or really, just daydream)
+about, it's about the idea of building out walkable, affordable,
+community-oriented, sustainable, rural towns and villages here in the
+USA.
+
+A couple of years ago when I shared the idea with close friends and
+family, it felt way out there. But now, especially with COVID and the
+remote work explosion, I think the general concept has been
+rediscovered many times over: there's a lot of affordable land in the
+USA, and a lot of jobs that can be done remotely -- accelerated this
+year with COVID, of course, and in the next couple of years, there
+will be much more widely-available high-speed satellite internet
+thanks to projects like Amazon Kuiper and Starlink. And e-commerce
+companies that figure out the logistical side of getting a good
+variety of goods available in more rural locations. And so if you put
+all those together, I think that idea of creating new towns and
+villages -- or maybe substantially redeveloping existing ones -- seems
+kind of obvious. A lot of people are content to relocate away from
+expensive cities and to existing rural areas, and that's already
+happening. But also, what excites me is the idea of relocating
+*alongside friends and family*. If you have a group of friends and
+family -- and maybe their additional friends and family, too -- then
+there are some really beautiful possibilities for developing villages
+or compounds that really break the design constraints of the
+single-family rural/suburban/exurban models. Categories of public
+goods -- everything from community kitchens and shared workshops to
+more expansive "safe to roam" areas for smaller kids -- become
+possible where they aren't now. And bountiful volunteer babysitters within
+shouting distance. To me, that feels like the ultimate luxury.
+
+Nothing really new here -- these are fundamentals of village life as
+it's always been practiced. But we've obviously pushed out that model
+and it certainly seems to me that it's time for the pendulum to swing
+back. So we start to think of the "extended family" as a political
+unit, not just the "nuclear family."
+
+Anyway, I'm trying to figure how to help play some role in that. One
+idea is to start out as an RV park for the growing number of "digital
+nomads" around the US, sort of catering to remote workers more so than
+to retired tourists. I think there's a business model for that.
+A variant on that is to develop something more like a retreat center
+(also catered to remote workers) where you don't need to bring your
+own RV. And to organize some kind of summer festival around the
+retreat place to help attract people to it. A third one is to start
+out as a private vacation property on a larger piece of land and build
+it out in a fully private way.
+
+Getting strong internet is still a big bottleneck (from what I can
+tell), but again, by the time something like this comes to fruition,
+some combination of satellite internet and 5G is going to really
+change the equation.
+
+If you have any insights or shared interests, please -- reach out. I
+would love to talk more about it.
+
+Incidentally, I'm on the market for a good used pickup truck and 25+
+foot RV trailer, so if you've got any leads on either of lose, I would
+love to know!
+
+# The Years in Photos
+
+(Note, these links expire on Feb 1, 2021)
+
+2020: https://share.icloud.com/photos/0imqOwLidLFYmPHoysSajsHmw
+
+2019: https://share.icloud.com/photos/0P4jKiwJ9c97xY1UjoMicUH2w
