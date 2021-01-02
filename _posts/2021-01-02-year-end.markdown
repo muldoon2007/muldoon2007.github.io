@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "2019 and 2020 in Review"
-date:   2020-01-02 10:32:00 -0700
-categories:
+date:   2021-01-02 10:32:00-0700
+categories: review
 ---
 
-# 2019-2020 in Review
+# What Went Down
 
 Well, here we are. We did it. We made it to 2021.
 
@@ -21,7 +21,7 @@ household. Around the last time I sent out a personal update (in early
 2019), I was gearing up for a conference I helped to organize in
 Detroit. That turned out to be a big success. I won't go into all the
 details, but I'd strongly encourage you to check out
-<radicalxchange.org> if you're interested in learning more about what
+<http://www.radicalxchange.org> if you're interested in learning more about what
 I think is one of the most exciting political/technological movements
 out there in the world today. It was an honor to play a part in
 getting that off the ground.
@@ -296,8 +296,7 @@ Standing by for the Great Post-Pandemic Party of 2021 -- or 2022.
 To cut right along to the chase -- and it's a miracle if you've made
 it all the way here -- the one all-encompassing idea theme of this
 year, and last one for that matter, is about land development. Like I
-wrote about here:
-<https://muldoon.cloud/land/2020/12/01/minifesto.html>.
+wrote about here ([shameless second plug](https://muldoon.cloud/land/2020/12/01/minifesto.html)).
 
 And in short, if there's anything I think (or really, just daydream)
 about, it's about the idea of building out walkable, affordable,
@@ -362,6 +361,6 @@ love to know!
 
 (Note, these links expire on Feb 1, 2021)
 
-2020: https://share.icloud.com/photos/0imqOwLidLFYmPHoysSajsHmw
+2020: <https://share.icloud.com/photos/0imqOwLidLFYmPHoysSajsHmw>
 
-2019: https://share.icloud.com/photos/0P4jKiwJ9c97xY1UjoMicUH2w
+2019: <https://share.icloud.com/photos/0P4jKiwJ9c97xY1UjoMicUH2w>
