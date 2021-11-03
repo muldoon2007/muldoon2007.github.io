@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "How to get good at coding"
+date:   2021-11-02 -0700
+categories: coding
+---
+This is about how to get good at coding.
+
+[How to video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
