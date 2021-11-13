@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "What I want to do"
+date:   2021-11-12 -0700
+categories: work
+---
+
+# Overview
+
+I am hereby taking a few minutes to declare my work direction at this moment.
+
+Why? I am going through a fairly major life transition. My marriage of eleven years has come to an and. I find myself back in Chicago for the first time since I left for college. I am a fully remote employee now.
+
+I haven't really thought about anything related to the working world in quite a while. It's been all about taking care of things here on the home front.
+
+So I guess I just wanted to gather some thoughts.
+
+I also have a new and extremely comfortable keyboard (the Kinesis Freestyle Edge split ergonomic board) and I think I'm also looking for an excuse to put it to use.
+
+I have been for a very long time been interested in teaching, learning, memory, and knowledge management. At one level, I am extremely interested in using software to help people manage their knowledge, and in particular, in scientific and engineering domains.
+
+So I've been playing around with mostly open-source options like org-mode, org-roam, and LogSeq. I'd like to find ways to introduce them to engineering teams at my company as a way to improve scientific knowledge management -- keeping track of the foundational concepts to make sure everybody's got a command of them, but also collaboratively creating connections to advanced and experimental offshoots of the foundations.
+
+Helping people think and document in more multi-brain kind of way. Helping people be explicit about the foundational knowledge needed to succeed in a given job or project or team or whatever. Mapping out and structuring knowledge. Making it easier to get what's in our brains, out.
+
+Now, moving on to the next objective. I have in the past year gotten more or less sucked in to a couple of things. Mostly, related to Lisp programming.
+
+I still can't stop. It just feels enjoyable. More than anything I've done with programming so far. So yeah, I want to keep it up. In particular, hacking in Emacs Lisp and Clojure and ClojureScript. These are all a bit outside of mainstream and I wonder if it's worth the time investment to get into something that's so niche. At the same time, I have to trust my gut. And if I like doing something -- a lot more than other things -- and it's plausibly something I could do for a living, and can even get paid for it right now at my current job, I'm going to ride it out and see where it takes me.
+
+All in all, I think I do have software chauvinism to an extent. I look at all these different jobs and different walks of life, and start to think -- there's some set of foundational knowledge required for the job and it could be make explicit and it could be mapped out and software could help people track it and learn it. There's some latent order here that software could bring to the surface.
+
+The other part of it is that I see a lot of bullshit jobs out there, especially of course, office jobs. And if I'm going to be relegated to office work, I think that producing some code gives me at least a fighting chance to leave a legacy, to contribute something durable to civilization.
+
+I'm sure there's a more enlightened path out there. Why can't I just know what it is?
