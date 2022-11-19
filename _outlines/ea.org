@@ -1,0 +1,238 @@
+* Opener
+
+We now know that SBF is a sociapath. He latched on to sociopathic
+ideas too.
+
+[Reference Vitalik quote]
+
+* Utilitiarianism/Consequentialism as a Practical Philosophy
+- Suffers from the Knowledge Problem in the same way as Central Planning
+- Can justify any number of abhorrent behaviors and
+  Machiavellian/sociopathic thinking
+  - e.g. suicide bomber who can do the calculation that net utility
+    will be greater
+
+* "Maximize your impact"
+- Code for "acquire power"
+- Same as "change the world"
+- Perfect justification for trying to make as much money as possible.
+  That is crazy.
+
+* Giving Pledges as a PR stunt
+- Of course you have to give the money away
+- If you really want to give, you should do it anonymously and with no
+  strings attached. Or pay it back to the Treasury.
+- Who says it isn't better to keep it, try to raise your children
+  well, and pay estate taxes and let them give it away?
+
+* "Effective Altruism"
+- Implies others are either ineffective or not altruists
+- Wiblin quote about this being the first time people started thinking
+  about how to do good with their jobs
+
+* Advanced AI is very dangerous, so we should build it as fast as we can
+- What about getting it included into school curricula around the world?
+- What about sponsoring conferences on safety?
+- What about trying to understand the Chinese motivations and building
+  goodwill?
+
+* For Fun, the Simulation Argument
+
+* Humanities are useless
+- He didn't seem to be aware of any other value systems, religion,
+  critiques of utilitarianism, alternate ways of thinking about how to
+  do good in the world
+  - Potential aside about Musk and his physics background
+  - They're the only way we have to understand politics and character
+    and morality
+
+* Conclusion
+- Our primary challenge as a society is elevating good people to
+  positions of power so they don't do destructive shit.
+- We desperately need institutions to encourage ethics for all people,
+  otherwise they'll fall victim to this
+
+
+Ideas that contributed to the fraud:
+
+1. Consequentialism
+
+- First define it, folk consequentialism and fundamentalist
+- Why it's totally unworkable
+  - Impossible to compute/estimate consequences
+  - Compare to Hayek's knowledge problem
+  - If you do try, you become delusional
+- Better alternative
+  - Be honest, cultivate compassion and gratitude, be healthy, see
+    most people as moral equals, be creative (transition to EA about
+    not being equals)
+  - Why? Because these increase the supply of freedom, cooperation,
+    compassion in the world and they help us solve game theory problems
+
+2. Validation from EA community
+
+- Endows you with a toxic sense of arrogance
+  - Reference the website
+
+3. The "maximize your impact" refrain
+
+- Provides cover for "become powerful at all costs"
+
+4. Validation from arbitrage and Wall Street
+
+- We should be skeptical of anyone who goes through Wall Street
+  because it's mostly about hoarding influence by pretending to have
+  special access to the future or to arcane math
+
+---
+
+I should start by saying that I think that there are a lot of great
+ideas bounced around in the Effective Altruism world. They encourage
+people to give more of their money to charity. They ask really hard,
+quantitative questions about the most cost-effective ways to save a
+life. People in and adjacent to EA have put some real money behind
+quality research on existential risks. The world definitely needs to
+be doing that.
+
+At the same time, I just do want to give my two cents on why the
+Effective Altruism "community" should be disbanded and cancelled. The
+sooner the better. I know it's really not in great taste to jump on
+the pile at this point, but I think a couple points keep on getting
+missed.
+
+# Colossal Arrogance
+
+As many others have mentioned, the term "Effective Altruism" on its
+own is absolutely seething with arrogance. Because if you're not an
+Effective Altruist, what are you? You're either an Ineffective
+Altruist (stupid) or just not an altruist (immoral). It really is that
+bad. The whole movement could easily be named the Community for People
+Who are Smarter and More Virtuous Than Everyone Else.
+
+Wiblin podcast:
+- Quote about inventing the idea of having a good career
+-
+
+# Peddling Dangerous Ideas
+
+## Dangerous Idea 1: Consequentialism
+
+SBF was an avowed pracitioner of a kind of fundamentalist
+utilitarianism. His guiding philosophy was to statistically estimate
+the amount of good you could create in the world and make life decisions based on the highest Expected Value (EV) option available. EV is calculated by multiplying the "amount of good produced" by the "chances of this outcome suceeding."
+
+He described his approach when deciding what to do with his life after making money on Wall Street:
+
+> Quote about the BOTEC
+
+And this lead him directly to trying to make a fortune.
+
+Now, consequentialism is pretty much in vogue in certain liberal circles. Sam Harris has gone out of his way to defend it.
+
+
+## "Maximize Your Impact"
+
+
+
+# Insular Monoculture
+
+(Summarize the results from the survey)
+
+# Crappy philosophy of identity
+
+
+But the [FTX meltdown](https://en.wikipedia.org/wiki/FTX_(company)#November_2022_crisis_and_bankruptcy) last week inspired me to chime in on the relationship between Sam Bankman-Fried and Effective Altruism:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">With all due respect, I hope you’re strongly considering the idea that the EA community is a net negative in the world and should be dissolved and reconfigured with some fresh ideas and new kinds of people.<br><br>Because from my vantage, up until last week, SBF was the paragon of EA.</p>&mdash; Mickey Muldoon (@mickeymuldoon) <a href="https://twitter.com/mickeymuldoon/status/1591254969805852673?ref_src=twsrc%5Etfw">November 12, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+I'm just going to expand on that here.
+
+Just to be clear, SBF was *the* poster child for Effective Altruism.
+In countless articles, podcasts, and interviews, he described very
+explicitly seeking to maximize his earnings in order to donate to
+Effective Altruism causes.[^1] He was at one point the director of
+business development for the Centre for Effective Altruism. His
+Twitter avatar is wearing a shirt with the EA logo. His rise to
+success was substantially enabled by the worldwide EA community. A
+Japanese grad student in the EA movement helped him set up accounts
+for his signature "Kimchi trade" in Bitcoin. Jaan Tallinn, the
+billionaire Skype founder who is also active in the EA movement, gave
+SBF a $50 million loan for Bitcoin trading.[^2] And so on.
+
+# What the EA community is saying
+
+Today I poked around the [Effective Altruism
+forum](https://forum.effectivealtruism.org/topics/ftx-crisis) and
+Twitter feeds and how they've responded to FTX. More or less, they're
+saying, "Well, he really let us down. He wasn't a true Effective
+Altruist, because true Effective Altruists are also ethical people who
+don't steal." Or, "We have learned a hard lesson about trust, and
+we'll do some serious reflection about how to be better."
+
+An [astute observer on the EA forum](https://www.lesswrong.com/posts/HMaBPzrnvg2WCw6KL/noting-an-unsubstantiated-communal-belief-about-the-ftx?commentId=vh9s2ifMwqYkHA9as) referenced the "No True Scotsman" fallacy.
+
+Precisely. SBF was the model of EA, a huge funder of EA organizations, was the excact target demographic for EA, and perhaps its biggest booster over the past five years. You can't just point a finger at him without implicating the whole EA community that has been his cultural and intellectual home for the past decade.
+
+# Effective Altruism is arrogant as as hell
+
+What's funny is that many, many of the people associated with EA are humble and quiet in all kinds of ways. But when it comes to how to "do good" in the world, the arrogance is off the charts.
+
+Let's start with the [Introduction to Effective
+Altruism](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism):
+
+> Effective altruism is a project that aims to find the best ways to help others, and put them into practice.
+>
+> It’s both a research field, which aims to identify the world’s most pressing problems and the best solutions to them, and a practical community that aims to use those findings to do good.
+>
+> This project matters because, while many attempts to do good fail, some are enormously effective. For instance, some charities help 100 or even 1,000 times as many people as others, when given the same amount of resources.
+>
+> This means that by thinking carefully about the best ways to help, we can do far more to tackle the world’s biggest problems.
+>
+> Effective altruism was formalized by scholars at Oxford University, but has now spread around the world, and is being applied by tens of thousands of people in more than 70 countries.
+
+A close reading, and apologies for the snark:
+
+> Effective altruism is a project that aims to find the best ways to help others, and put them into practice.
+
+Translation: *We invented the idea of helping people.*
+
+> It’s both a research field, which aims to identify the world’s most pressing problems and the best solutions to them, and a practical community that aims to use those findings to do good.
+
+Translation: *Ethics are for losers. We can use the scientific method to figure out what it means to be a good person, and to create maximum good.*
+
+> This project matters because, while many attempts to do good fail, some are enormously effective. For instance, some charities help 100 or even 1,000 times as many people as others, when given the same amount of resources.
+>
+> This means that by thinking carefully about the best ways to help, we can do far more to tackle the world’s biggest problems.
+
+Translation: *We are smarter than other people. Other people fail to do good because they don't think hard about it, and because they're so busy virtue-signaling. We can be 100 or even 1,000 times more effective than other people because we are so rational.*
+
+> Effective altruism was formalized by scholars at Oxford University, but has now spread around the world, and is being applied by tens of thousands of people in more than 70 countries.
+
+Translation: *Not only are we smart, but we were conceived at an elite
+university and use formal methods that ordinary people can't access.
+You will want to trust our experts over your own conventional
+judgments about what it means to be a good person and to do good in
+the world.*
+
+But just to be extra clear about it, here's
+
+# EA is a society for rich, white, powerful, arrogant, high-IQ misfits
+
+The arrogance
+
+[Glen Weyl tweet](https://twitter.com/glenweyl/status/1590670789267054593)
+
+
+[Isn't EA Obvious](https://www.effectivealtruism.org/faqs-criticism-objections#isnt-effective-altruism-obvious)
+
+[^1]: This is representative: https://www.samharris.org/podcasts/making-sense-episodes/271-earning-to-give
+
+[^2]: For a long history on this, see https://web.archive.org/web/20221027180943/https://www.sequoiacap.com/article/sam-bankman-fried-spotlight/
+
+# Other ideas
+
+- It's an ideological extreme ideology based on statistics that's not
+  balanced out by humility, so it turns into a bunch of fuzzy math
+  based on wild guesses on probabilities of future events
+- Why does our society reward this kind of behavior?
+- "Having an impact" is very dangerous
