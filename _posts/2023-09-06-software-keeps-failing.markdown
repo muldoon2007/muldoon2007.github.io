@@ -13,7 +13,9 @@ I'm starting to wonder if it's not just the startup/VC world that experiences th
 
 In my eleven years doing software, the majority of projects I worked on were money-losers. And this is across a range of companies and industries -- education tech, Amazon logistics and physical stores, aerospace -- and company sizes. A few of them were huge money-makers, and a good number were in the neutral-to-positive range.
 
-Some of the projects were part of startups, but most weren't. They were projects or initiatives that were part of medium-to-large sized companies, and they didn't (usually) bankrupt the companies when they didn't work out.
+To clarify, by "project," I'm talking about something that's large and customer-facing. Not a back-end Unicode migration or new integration test system or a plumbing job to redirect data flows or some incremental new feature on an existing product. I'm talking about something that requires or forces the people who use to change the way they accomplish some non-trivial task. Something that would be listed as one of the few "big rocks" on your yearly product roadmap.
+
+Anyway, some of the projects I worked on were part of startups, but most weren't. They were projects or initiatives that were part of medium-to-large sized companies, and they didn't (usually) bankrupt the companies when they didn't work out.
 
 Related: I had a colleague once who passed on this piece of wisdom: "All software development is R&D. As soon as it's no longer research, it can be automated and the human work goes away." That's a simplification, because there are projects that do require regular human work just for maintenance - but I think the basic point stands. 
 
