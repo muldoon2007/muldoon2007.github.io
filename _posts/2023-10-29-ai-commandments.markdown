@@ -3,7 +3,7 @@ layout: post
 title:  "Eight Commandments for AI: A Consumer's Perspective"
 date:   2023-10-29
 ---
-# Preramble
+## Preramble
 
 Between 2013 and today, at least $443 billion has been invested to
 bring AI to every imaginable corner of our lives, our workplaces, our
@@ -99,9 +99,9 @@ some better version of them), we could – maybe, just maybe – we could
 be something other than fuel for this freight train, for this
 mega-machine, as Mumford described it.
 
-# The Eight Commandments of AI
+## The Eight Commandments of AI
 
-## 1. Thou Shalt Not Allow AI To Make Thee Dumber
+### 1. Thou Shalt Not Allow AI To Make Thee Dumber
 
 GPS apps have made us less capable at wayfinding.[^5] How do we make sure that AI doesn’t make us less capable at thinking?
 
@@ -164,7 +164,7 @@ like, in our real brain memory, in order to think.[^8] Yet we’re going to
 be told that we don’t need to think and we don’t need to remember
 because the AI will do it for us.
 
-## 2. Thou Shalt Reject AI-generated Art
+### 2. Thou Shalt Reject AI-generated Art
 
 Maybe I’ve missed the argument for what’s going to be fun about
 AI-generated novels and images and movies.
@@ -183,7 +183,7 @@ There is only one right answer!
 In fact, when AI is substantively involved (when it generates its own
 ideas), we can no longer call it art. We can only can it “content.”
 
-## 3. Thou Shalt Protect the Future from the Generative Content Downward Spiral
+### 3. Thou Shalt Protect the Future from the Generative Content Downward Spiral
 
 There’s probably a better name for this. It’s the thing that happens
 when new AI is trained increasingly on AI-generated content from the
@@ -198,7 +198,7 @@ collectively, we do need to actively curate content spaces that are
 untainted by generative AI. This is exactly like curating museum
 collections.
 
-## 4. Thou Shalt Reject Tranformation For Its Own Sake
+### 4. Thou Shalt Reject Tranformation For Its Own Sake
 
   >  As AI advances, we will see how it will transform nearly every
   >  aspect of our lives. In ways that will seem unimaginable right
@@ -215,7 +215,7 @@ you don’t get left behind by the other people who did buy my product”)
 or appeal to the crudest form of consumerism (“If it’s new, it must be
 good!”).
 
-## 5. Thou Shalt Shun AI Companions
+### 5. Thou Shalt Shun AI Companions
 
 We only have so much time in the day to devote to intimate
 relationships. It’s either with AI or with people. This is a zero-sum
@@ -223,7 +223,7 @@ thing.
 
 Seeing AI replace human intimacy seems to me to be part of the process of the collapse of civilization.
 
-## 6. Thou Shalt Keep School Relevant
+### 6. Thou Shalt Keep School Relevant
 
 My kids are in elementary school. From now until at least college, AI
 will be able to do all their homework and pass all their tests.
@@ -243,7 +243,7 @@ firewalls and device management policies on home devices and networks.
 This is a public good. We can’t afford to create a generation of
 AI-addicted cheaters.
 
-## 7. Thou Shalt Not Allow AI to Write on Thy Behalf
+### 7. Thou Shalt Not Allow AI to Write on Thy Behalf
 
 I see the world of AI-generated PowerPoint and AI-generated email around the corner. It’s already happenning.
 
@@ -263,7 +263,7 @@ It seems to me that we’re at a big risk of simply losing trust in the
 human provenance of all digital text. And then what? Maybe we go back
 to a pre-literate world. (Socrates would be smiling[^10])
 
-## 8. Thou Shalt Guiltlessly Embrace AI For Low-Risk Search
+### 8. Thou Shalt Guiltlessly Embrace AI For Low-Risk Search
 
 I’m not trying to give AI a hard time. It’s a miracle. In particular,
 it’s a godsend when one is searching for statistically plausible
@@ -300,13 +300,13 @@ Counseling by abstracting the principles and using the bridge as a
 metaphor for a relationship.” That all sounds like interesting, fair
 game.
 
-# Disclaimer
+## Disclaimer
 
 OpenAI has a mega-billion-dollar valuation, so people are using it for
 something, and what do I know? I’m probably missing an untold number
 of interesting and positive use cases.
 
-# Notes
+## Notes
 
 [^1]:https://aiindex.stanford.edu/report/#individual-chapters
 
