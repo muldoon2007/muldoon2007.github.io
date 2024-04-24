@@ -31,6 +31,6 @@ I submit the following as the *AI Agency Alignment Narrowing Effect*:
 
 I call it a "narrowing effect" because Point 4 reduces the
 capabilities of the AI system along some dimensions: art generation,
-AI therapy, group deliberations, event and travel planning -- and much
-of "AI Agents" capabilities that seems to be the next big thing from
-the big AI shops.
+AI therapy, group deliberations, event and travel planning. It also
+precludes much of the "AI Agents" capabilities that seem to be the
+next big thing from the big AI shops.
