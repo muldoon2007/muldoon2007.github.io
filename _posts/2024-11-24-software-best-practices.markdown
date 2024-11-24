@@ -56,7 +56,7 @@ Therefore, the fundamental question in software engineering is one of ordering: 
 
 And to answer that question, there is one obvious general rule:
 
-Rule 1: Prioritize automating the repeated work that would take the most human time to complete.
+> Rule 1: Prioritize automating the repeated work that would take the most human time to complete.
 
 How do we know what is repeated the most and what would take the most time?
 
@@ -80,6 +80,8 @@ Why do so many fundamental trends of the economy – world GDP growth, Moore’s
 At the core of these trends is the concept of compounding, also described as the “flywheel effect”[^3] or the “Law of Accelerating Returns”[^4]:
 
 ![Compounding](/images/compounding.png "Figure 1: Compounding")
+
+               **Figure 1: Compounding**
 
 Each time the cycle completes, it becomes faster and/or more powerful, leading to the exponential effect. (In Einstein’s case of compound interest, principal is the “input” and interest is the “output.”)
 
@@ -105,16 +107,18 @@ This can be represented by interconnected compounding cycles:
 
 ![Figure 2](/images/flywheel-software.jpeg "Figure 2: Compounding in the context of software systems")
 
+            **Figure 2: Compounding in the context of software systems**
+
 Each labeled arrow represents a pathway where there are concrete, knowable, documentable feed-forward mechanisms. Some more elaboration on each arrow:
 
-a.  More powerful software tooling eliminates repetitive manual labor, leading to faster execution.
-b.  Faster execution frees up engineering time to build better tooling.
-c.  Faster execution frees up engineering time to learn more deeply and widely.
-d.  Better technical knowledge leads to better technical designs and plans.
-e.  Better technical plans lead to less wasted rework and therefore faster execution.
-f.  Better tooling in the form of documented design processes, standards, guidelines, and templates lead to better designs.
-g.  Better learning management systems improve individual technical knowledge.
-h.  Better principles and tenets improve planning by means of applying distilled, collective knowledge.
+    a.  More powerful software tooling eliminates repetitive manual labor, leading to faster execution.
+    b.  Faster execution frees up engineering time to build better tooling.
+    c.  Faster execution frees up engineering time to learn more deeply and widely.
+    d.  Better technical knowledge leads to better technical designs and plans.
+    e.  Better technical plans lead to less wasted rework and therefore faster execution.
+    f.  Better tooling in the form of documented design processes, standards, guidelines, and templates lead to better designs.
+    g.  Better learning management systems improve individual technical knowledge.
+    h.  Better principles and tenets improve planning by means of applying distilled, collective knowledge.
 
 It’s worth mentioning that “tooling” is doing a lot of work in this system – in the form of not just standard software “build” tools, but also in the form of templates, learning software, and design templates and conventions. “Tooling” is ultimately a broad and essential category, as any software engineer will appreciate.
 
@@ -124,13 +128,15 @@ Of course, this is not science. These circles and arrows do not somehow emerge f
 
 As much as we may wish otherwise, software systems do not exist in the Platonic space of pure ideas. There also happen to be people, and capital, and business objectives and strategies. With just a little extra work, we can add this “context” to complete the flywheel (Figure 3). There are now a few more arrows to describe:
 
-i.  Faster execution generates more capital.
-j.  More capital speeds up the flywheel generally by fueling the whole system with resources.
-k.  A clear business strategy makes it easier to form effective plans.
-l.  Principles are cheap. People and teams with collectively good judgment know how to cultivate, improve and apply them effectively.
-m.  Good tooling can help track the quality of judgment and elevate people and teams who exercise good judgment.
+    i.  Faster execution generates more capital.
+    j.  More capital speeds up the flywheel generally by fueling the whole system with resources.
+    k.  A clear business strategy makes it easier to form effective plans.
+    l.  Principles are cheap. People and teams with collectively good judgment know how to cultivate, improve and apply them effectively.
+    m.  Good tooling can help track the quality of judgment and elevate people and teams who exercise good judgment.
 
 ![Figure 3](/images/flywheel-company.jpeg "Figure 3: Compounding in the context of a software engineering organization")
+
+            **Figure 3: Compounding in the context of a software engineering organization**
 
 One point: Figure 3 could perhaps have been titled, “A Model of a Generic Firm.” That is, it doesn’t appear specifically to apply to software engineering, or even to engineering in general. This isomorphism is not a coincidence, but more discussion on that will have to wait for a future essay.
 
@@ -142,9 +148,7 @@ In any event, we now have some pieces in place to answer the guiding question of
 >
 > 1a) Strive to align each edge in Figure 4 with mechanism(s) that are known, documented, understandable, and usable.
 >
-> 1b) Leaders with increasing responsibility should take on broader scope to close and tighten loops in the flywhe
-
-el.
+> 1b) Leaders with increasing responsibility should take on broader scope to close and tighten loops in the flywheel.
 
 ## What comes next
 
