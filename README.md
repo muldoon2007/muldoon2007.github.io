@@ -1,5 +1,5 @@
 # muldoon2007.github.io
-Personal blog here.
+Personal blog here. Yup.
 
 # Running locally
 Once ruby stuff is installed, I run:
