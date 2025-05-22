@@ -17,7 +17,7 @@ Why isn't there a "pharmaceutical alignment" or a "school curriculum alignment" 
 
 I think that the answer is "AI Alignment" has an implicit technical bent to it. If you go on the [AI Alignment Forum](https://www.alignmentforum.org/), for example, you'll find more math than Confucius or Foucault.
 
-On the other hand, nobody would view "pharmaceutical alignment" (if it were formulated as such; "[steering] pharmaceutical systems toward a person's or group's intended goals, preferences, or ethical principles")) as primarily a problem for math or science.
+On the other hand, nobody would view "pharmaceutical alignment" (if it were formulated as "[steering] pharmaceutical systems toward a person's or group's intended goals, preferences, or ethical principles") as primarily a problem for math or science.
 
 While there always are things that pharmaceutical developers can do *inside the lab* to at least try to promote ethical principles  -- for example, perhaps, to minimize preventable hazards, even when not forced to -- we also accept that ethical work is done in large part *outside* of the lab; in purchasing decisions, in the way that pharmaceutical marketplaces operate, in the vast mess of the medical-industrial-government complex. It's a problem so diffuse that it hardly makes sense to gather it all into one coherent encyclopedia entry.
 
